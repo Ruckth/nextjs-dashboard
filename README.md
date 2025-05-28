@@ -1,6 +1,5 @@
-## Next.js App Router - Starter
+## Learning Next.js router
 
-This is the starter template for the Next.js App Router Course. 
 It a dashboard like web app contain this functionality:
 - Optimizing Fonts and Images
 - Dashboard layout
